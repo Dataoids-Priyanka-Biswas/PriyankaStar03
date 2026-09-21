@@ -43,7 +43,7 @@ Data Analyst • Power BI Developer • SQL • Python • AI Automation
 
 # Experience Highlights
 
-✔ Developed interactive **Power BI dashboards** with advanced DAX measures, KPIs and drill-through reports, improving reporting efficiency by **30%**.
+✔ Developed interactive **Power BI dashboards** with advanced DAX measures, KPIs and drill-through reports, improving reporting efficiency.
 
 ✔ Automated ETL workflows using **SQL Server, SSIS and Python**, reducing manual reporting effort by **30%**.
 
